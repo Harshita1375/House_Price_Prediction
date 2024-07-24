@@ -1,6 +1,6 @@
-# House_Price_Prediction
+# Edunet Foundation Internship under IBM SkillsBuild program
 
-The project 'House Price Prediction using Machine Learning' demonstrated the efficacy of various machine learning algorithms for predicting house prices. The Decision Tree Regressor model outperformed all others.
+The goal of this project is to develop and evaluate a model that predicts house prices based on data collected from various houses.
 
 ## Approach
 <ul>
